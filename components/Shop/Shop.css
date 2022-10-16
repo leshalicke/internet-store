@@ -1,0 +1,80 @@
+.cart-element{
+  width: 633px;
+height: 218px;
+left: 165px;
+top: 126px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+border-radius: 30px;
+list-style-type: none;
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+}
+
+.cart-element__img{
+  align-self: flex-start;
+}
+
+.cart-element img{
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  
+}
+
+
+.shop-container{
+  display: grid;
+  /* grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); */
+  grid-gap: 45px;
+  width: 74%;
+  max-width: 1200px;
+  margin: 30px auto;
+  list-style-type: none;
+}
+
+.cart-element__info{
+  display: grid;
+    align-content: center;
+}
+
+.cart-element__info span{
+  margin-left: 30px;
+}
+
+.cart-element__price{
+  color: rgb(143, 143, 158);
+  margin: 10px;
+}
+
+.cart-title{
+  width: 114px;
+  height: 24px;
+  left: 182px;
+  top: 88px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #838383;
+  margin-right: auto;
+  margin-left: 13%;
+}
+
+.shop-delete{
+  align-self: flex-start;
+  margin-left: 30%;
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.shop-delete svg{
+  margin-top: 20px;
+}
