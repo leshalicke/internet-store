@@ -9,8 +9,7 @@ class LocalStorageUtil {
     }
     return []
   }
-  putProducts(id, count = 1){
-    console.log(id)
+  putProducts (id) {
     let products = this.getProducts();
     let pushProducts = false;
     const index = products.indexOf(id);

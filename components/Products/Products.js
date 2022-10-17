@@ -44,7 +44,8 @@ class Products {
           <span class='products-element__name'>${name}</span> 
           <span class='products-element__price'>${price} ₽</span>
           <span class='products-element__rate'>⭐${rate}</span>
-          <button class="products-element__btn${activeClass}" onclick="productsPage.handleSetLocationStorage(this, '${id}');">
+          <button class="products-element__btn${activeClass}" 
+            onclick="productsPage.handleSetLocationStorage(this, '${id}');">
                         ${activeText}
                     </button>
         </div>
