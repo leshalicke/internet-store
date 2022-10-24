@@ -4,7 +4,7 @@ const CATALOG = [
         "count": 1,
         "name": "Apple BYZ S852I",
         "price": 2927,
-        "img": "../img/body/image.png",
+        "img": "https://i.ibb.co/NS2DvcD/Image.png",
         "rate": 4.7
     },
     {
@@ -12,7 +12,7 @@ const CATALOG = [
         "count": 1,
         "name": "Apple EarPods",
         "price": 2327,
-        "img": "../img/body/image2.png",
+        "img": "https://i.ibb.co/jfQMGRd/Image2.png",
         "rate": "4.5"
     },
     {
@@ -20,7 +20,7 @@ const CATALOG = [
         "count": 1,
         "name": "Apple EarPods",
         "price": 2327,
-        "img": "../img/body/image3.png",
+        "img": "https://i.ibb.co/gFcTKrW/Image3.png",
         "rate": "4.5"
     },
     {
@@ -28,7 +28,7 @@ const CATALOG = [
         "count": 1,
         "name": "Apple BYZ S852I",
         "price": 2927,
-        "img": "../img/body/image.png",
+        "img": "https://i.ibb.co/NS2DvcD/Image.png",
         "rate": "4.7"
     },
     {
@@ -36,7 +36,7 @@ const CATALOG = [
         "count": 1,
         "name": "Apple EarPods",
         "price": 2327,
-        "img": "../img/body/image2.png",
+        "img": "https://i.ibb.co/jfQMGRd/Image2.png",
         "rate": "4.5"
     },
     {
@@ -44,7 +44,7 @@ const CATALOG = [
         "count": 1,
         "name": "Apple EarPods",
         "price": 2327,
-        "img": "../img/body/image3.png",
+        "img": "https://i.ibb.co/gFcTKrW/Image3.png",
         "rate": "4.5"
     }
 ]
@@ -55,7 +55,7 @@ const CATALOG2 = [
         "count": 1,
         "name": "Apple AirPods",
         "price": 9527,
-        "img": "../img/body/image4.png",
+        "img": "https://i.ibb.co/KXDD3T0/Image4.png",
         "rate": "4.7"
     },
     {
@@ -63,7 +63,7 @@ const CATALOG2 = [
         "count": 1,
         "name": "GERLAX GH-04",
         "price": 6527,
-        "img": "../img/body/image5.png",
+        "img": "https://i.ibb.co/ZBpb5ZG/Image5.png",
         "rate": "4.7"
     },
     {
@@ -71,7 +71,7 @@ const CATALOG2 = [
         "count": 1,
         "name": "BOROFONE BO4",
         "price": 7527,
-        "img": "../img/body/image6.png",
+        "img": "https://i.ibb.co/DzY6Kvv/Image6.png",
         "rate": "4.7"
     }
 ]
